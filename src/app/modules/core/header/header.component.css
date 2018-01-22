@@ -1,0 +1,9 @@
+.top-menu {
+    background-color: #E3EAF3;
+    height: 50px;
+}
+
+.top-menu .top-menu-container {
+    position: relative;
+    left: 270px;
+}

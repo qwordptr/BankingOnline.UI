@@ -1,0 +1,37 @@
+.container-accounts {
+    margin-top: 50px;
+}
+
+.account-preview {
+    cursor: pointer;
+    height: 140px;
+    border: 1px solid #E3EAF3;
+    padding: 30px;
+    font-size: 15pt;
+}
+
+.account-preview .title {
+    font-weight: bold;
+    font-family: Arial;
+}
+
+.rounded {
+    border-radius: .45rem!important;
+}
+
+.row {
+    margin-bottom: 50px;
+}
+
+.account {
+    margin-bottom: 40px;
+}
+
+.account div:hover {
+    background-color: #6495f3;
+    color: white;
+}
+
+.new {
+    padding-bottom: 30px;
+}

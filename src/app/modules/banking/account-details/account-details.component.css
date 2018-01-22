@@ -1,0 +1,43 @@
+.main-content {
+    margin-top: 50px;
+}
+
+.details {
+    margin-top: 50px;
+}
+
+.balance-graphic {
+    position: relative;
+    background-color: #3D95AC ;
+    border-radius: 50%;
+    min-width: 250px;
+    min-height: 250px;
+}
+
+.balance-graphic .balance-value{
+    position: relative;
+    top: 120px;
+    left: 10%;
+    -webkit-transform: translateY(-50%);
+    -ms-transform: translateY(-50%);
+    transform: translateY(-50%);
+    color: white;
+    font-size: 30pt;
+    font-weight: bold;
+}
+
+.balance-summary{
+    top: 100px;
+    position: relative;
+    -webkit-transform: translateY(-50%);
+    -ms-transform: translateY(-50%);
+    transform: translateY(-50%);
+    font-size: 18px;
+    color: black;
+    font-weight: bold;
+}
+
+.actions ul li {
+    padding: 10px;
+    list-style: none;
+}
